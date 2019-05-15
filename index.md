@@ -1,6 +1,6 @@
 ## 卢博 Bo Lu
 
-Guangdong, Shenzhen &nbsp;&nbsp；&nbsp；&nbsp；&nbsp； +86 15602454711 &nbsp；&nbsp；&nbsp；&nbsp；&nbsp； xixuecao@gmail.com
+Guangdong, Shenzhen     +86 15602454711     xixuecao@gmail.com
 
 ### Markdown
 
