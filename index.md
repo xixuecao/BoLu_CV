@@ -4,8 +4,6 @@ Guangdong, Shenzhen  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp
 
 ### 技能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 #### 2018.09-2020.07 (研究生)：
 设计用于AM驱动电路的倒装LED芯片阵列的Mask，包括Mesa，CSL，ELEC，Contact Hole，Indium一共5层。
 掌握基于GaN外延片的Micro-LED生长与制备工艺流程，光刻，ICP刻蚀，Ebeam蒸镀，磁控溅射。
