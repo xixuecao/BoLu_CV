@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 #### 2014.09-2018.07 (本科)：
 2017年与同学组队参加第十三届五一数学建模联赛，主要负责 1)分析问题并且建立模型；2)用Matlab对模型进行搭建，分析处理数据，最终获得一等奖。在其他数学建模竞赛中也负责类似工作。
 
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
