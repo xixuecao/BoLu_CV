@@ -5,17 +5,38 @@ Guangdong, Shenzhen  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp
 ### 技能
 
 #### 2018.09-2020.07 (研究生)：
-设计用于AM驱动电路的倒装LED芯片阵列的Mask，包括Mesa，CSL，ELEC，Contact Hole，Indium一共5层。
-掌握基于GaN外延片的Micro-LED生长与制备工艺流程，光刻，ICP刻蚀，Ebeam蒸镀，磁控溅射。
+* 设计用于AM驱动电路的倒装LED芯片阵列的Mask，包括Mesa，CSL，ELEC，Contact Hole，Indium一共5层。
+* 掌握基于GaN外延片的Micro-LED生长与制备工艺流程，光刻，ICP刻蚀，Ebeam蒸镀，磁控溅射。
 #### 2014.09-2018.07 (本科)：
-2017年与同学组队参加第十三届五一数学建模联赛，主要负责 1)分析问题并且建立模型；2)用Matlab对模型进行搭建，分析处理数据，最终获得一等奖。在其他数学建模竞赛中也负责类似工作。
+* 2017年与同学组队参加第十三届五一数学建模联赛，主要负责 1)分析问题并且建立模型；2)用Matlab对模型进行搭建，分析处理数据，最终获得一等奖。在其他数学建模竞赛中也负责类似工作。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 教育背景
+#### 2018 年 9 月 - 2020 年 7 月
+**南方科技大学，电子与电气工程系，光学工程，广东 深圳 - 硕士研究生**
 
-### Jekyll Themes
+荣誉：在国际显示技术会议(ICDT)发表论文：Thermal Stability Analysis of Micro-LED arrays
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xixuecao/xixuecao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+相关课程：机器学习，高级非线性优化技术，先进显示与照明技术，微显示技术与AR/VR，光谱学与光谱技术，功率器件和开关电源设计
 
-### Support or Contact
+#### 2014 年 9 月 - 2018 年 7 月
+**中国矿业大学，物理学院，光电信息科学与工程，江苏 徐州- 本科**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+荣誉：获评一次国家励志奖学金，校级优秀学生一次，2017年获评学部优秀团员
+
+相关课程：激光物理，光学设计，光通信原理，固体物理，模拟电路，数字电路，太阳能电池
+
+### 竞赛活动
+大三学年：
+
+2016年全国大学生数学竞赛二等奖；2017年第十三届五一数学建模联赛一等奖
+
+大二学年：
+
+2016年第十三届五一数学建模联赛三等奖
+
+### 其他
+语言：英语(6级)，英语口语(流畅)，普通话(母语)
+
+技能：Java(入门)，HTML(入门)，Matab(熟练)
+
+兴趣爱好：跑步(高校半马赛一次)
