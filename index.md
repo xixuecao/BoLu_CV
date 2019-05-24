@@ -13,7 +13,7 @@ Guangdong, Shenzhen  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp
 
 ### 教育背景
 #### 2018 年 9 月 - 2020 年 7 月
-**南方科技大学，电子与电气工程系，光学工程，广东 深圳 - 硕士研究生**
+**南方科技大学-哈尔滨工业大学联合培养，电子与电气工程系，光学工程，广东 深圳 - 硕士研究生**
 
 荣誉：在国际显示技术会议(ICDT)发表论文：Thermal Stability Analysis of Micro-LED arrays
 
