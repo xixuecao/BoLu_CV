@@ -7,6 +7,7 @@ Guangdong, Shenzhen  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp
 #### 2018.09 - 2020.07 (研究生)：
 * 设计用于AM驱动电路的倒装LED芯片阵列的Mask，包括Mesa，CSL，ELEC，Contact Hole，Indium一共5层。
 * 掌握基于GaN外延片的Micro-LED生长与制备工艺流程，光刻，ICP刻蚀，Ebeam蒸镀，磁控溅射。
+* 机器学习课程设计：分别设计基于SVM，CNN的交通信号标识识别，使用dropout对CNN进行优化。
 
 #### 2014.09 - 2018.07 (本科)：
 * 2017年与同学组队参加第十三届五一数学建模联赛，主要负责 1)分析问题并且建立模型；2)用Matlab对模型进行搭建，分析处理数据，最终获得一等奖。在其他数学建模竞赛中也负责类似工作。
