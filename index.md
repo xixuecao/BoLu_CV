@@ -1,6 +1,6 @@
 ## 卢博
 
-广东 深圳   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; xixuecao@gmail.com
+广东 深圳   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11849159@mail.sustech.edu.cn
 
 ### 技能
 
