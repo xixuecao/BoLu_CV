@@ -4,7 +4,7 @@ Shenzhen, Guangdong   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbs
 
 ## Experience & Skills
 
-#### 2018.09-2020.07 (Postgraduate)：
+#### 2018 / 09  - 2020 / 07 (*Postgraduate*)：
 
 * ##### Machine learning course design
 Design traffic signal identification based on SVM and CNN respectively, and optimizing CNN by using dropout.
@@ -19,7 +19,7 @@ The temperature distribution test of 32 &times; 32 and 64 &times; 64 flexible tr
 Design and manufacture displays for AR/VR, high-resolution display devices, including Mesa, CSL, ELEC, Contact Hole, and Indium. Run the growth and preparation process of Micro-LEDs  based on GaN epitaxial wafers, including photolithography, ICP etching, E-beam evaporation, and magnetron sputtering.
 
 
-#### 2014.09-2018.07 (Undergraduate)
+#### 2014 / 09  - 2018 / 07 (*Undergraduate*)
 * Participating in the 13th May Day Mathematical Modeling League in 2017. Mainly responsible for 1) analyzing the problem and establishing the model; 2) building the model with Matlab, analyzing and processing the data.
 
 ## Education
