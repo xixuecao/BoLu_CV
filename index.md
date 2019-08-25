@@ -13,7 +13,7 @@ Design traffic signal identification based on SVM and CNN respectively, and opti
 Altium Designer is used  to design the driver and display circuit of the Mini-LED array, fabricate the PCB and bonding the LED chips to the display circuit, finally combine the driver, display and FPGA to form a complete Mini-LED display system.
 
 ##### * Thermal Stability Study of Flexible Transparent LED Array
-The temperature distribution test of 32 \times 32 and 64 \times 64 flexible transparent LED arrays is carried out, and the analysis of wavelength of LEDs in different regions is carried out to study whether the LED wavelength change caused by temperature has an influence on the display effect. One ICDT conference paper has been published, and the other is on investment.
+The temperature distribution test of 32 &times; 32 and 64 &times; 64 flexible transparent LED arrays is carried out, and the analysis of wavelength of LEDs in different regions is carried out to study whether the LED wavelength change caused by temperature has an influence on the display effect. One ICDT conference paper has been published, and the other is on investment.
 
 ##### * Micro-LED Display Array
 Design and manufacture displays for AR/VR, high-resolution display devices, including Mesa, CSL, ELEC, Contact Hole, and Indium. Run the growth and preparation process of Micro-LEDs  based on GaN epitaxial wafers, including photolithography, ICP etching, E-beam evaporation, and magnetron sputtering.
