@@ -2,7 +2,7 @@
 
 Shenzhen, Guangdong   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11849159@mail.sustech.edu.cn
 
-### Experience & Skills
+## Experience & Skills
 
 #### 2018.09-2020.07 (Postgraduate)：
 
@@ -22,7 +22,7 @@ Design and manufacture displays for AR/VR, high-resolution display devices, incl
 #### 2014.09-2018.07 (Undergraduate)
 * Participating in the 13th May Day Mathematical Modeling League in 2017. Mainly responsible for 1) analyzing the problem and establishing the model; 2) building the model with Matlab, analyzing and processing the data.
 
-### Education
+## Education
 
 #### 2018 / 09  - 2020 / 07
 **Southern University of Science and Technology, Department of Electrical and Electronic Engineering, Shenzhen Guangdong -*Postgraduate***
