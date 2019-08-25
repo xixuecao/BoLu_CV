@@ -1,44 +1,41 @@
-## 卢博
+## (Bo Lu)卢博
 
-广东 深圳   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11849159@mail.sustech.edu.cn
+Shenzhen, Guangdong   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11849159@mail.sustech.edu.cn
 
-### 技能
+### Experience & Skills
 
-#### 2018.09 - 2020.07 (研究生)：
-* 设计用于AM驱动电路的倒装LED芯片阵列的Mask，包括Mesa，CSL，ELEC，Contact Hole，Indium一共5层。
-* 掌握基于GaN外延片的Micro-LED生长与制备工艺流程，光刻，ICP刻蚀，Ebeam蒸镀，磁控溅射。
-* 机器学习课程设计：分别设计基于SVM，CNN的交通信号标识识别，使用dropout对CNN进行优化。
+#### 2018.09-2020.07 (Postgraduate)：
 
-#### 2014.09 - 2018.07 (本科)：
-* 2017年与同学组队参加第十三届五一数学建模联赛，主要负责 1)分析问题并且建立模型；2)用Matlab对模型进行搭建，分析处理数据，最终获得一等奖。在其他数学建模竞赛中也负责类似工作。
+##### * Machine learning course design
+Design traffic signal identification based on SVM and CNN respectively, and optimizing CNN by using dropout.
 
-### 教育背景
-#### 2018 年 9 月 - 2020 年 7 月
-**南方科技大学-哈尔滨工业大学联合培养，电子与电气工程系，光学工程，广东 深圳 - 硕士研究生**
+##### * Fabiricate Mini-LED Display System
+Altium Designer is used  to design the driver and display circuit of the Mini-LED array, fabricate the PCB and bonding the LED chips to the display circuit, finally combine the driver, display and FPGA to form a complete Mini-LED display system.
 
-在国际显示技术会议(ICDT)发表论文：Thermal Stability Analysis of Micro-LED arrays
+##### * Thermal Stability Study of Flexible Transparent LED Array
+The temperature distribution test of 32 $$\times$$ 32 and 64 $$\times$$ 64 flexible transparent LED arrays is carried out, and the analysis of wavelength of LEDs in different regions is carried out to study whether the LED wavelength change caused by temperature has an influence on the display effect. One ICDT conference paper has been published, and the other is on investment.
 
-相关课程：机器学习，高级非线性优化技术，先进显示与照明技术，微显示技术与AR/VR，光谱学与光谱技术，功率器件和开关电源设计
+##### * Micro-LED Display Array
+Design and manufacture displays for AR/VR, high-resolution display devices, including Mesa, CSL, ELEC, Contact Hole, and Indium. Run the growth and preparation process of Micro-LEDs  based on GaN epitaxial wafers, including photolithography, ICP etching, E-beam evaporation, and magnetron sputtering.
 
-#### 2014 年 9 月 - 2018 年 7 月
-**中国矿业大学，物理学院，光电信息科学与工程，江苏 徐州- 本科**
 
-获评一次国家励志奖学金，校级优秀学生一次，2017年获评学部优秀团员
+#### 2014.09-2018.07 (Undergraduate)
+* Participating in the 13th May Day Mathematical Modeling League in 2017. Mainly responsible for 1) analyzing the problem and establishing the model; 2) building the model with Matlab, analyzing and processing the data.
 
-相关课程：激光物理，光学设计，光通信原理，固体物理，模拟电路，数字电路，太阳能电池
+### Education
 
-### 竞赛活动
-大三学年：
+#### 2018 / 09  - 2020 / 07
+**Southern University of Science and Technology, Department of Electrical and Electronic Engineering, Shenzhen Guangdong -*Postgraduate***
 
-2016年全国大学生数学竞赛二等奖；2017年第十三届五一数学建模联赛一等奖
+Conference Paper (ICDT)：Thermal Stability Analysis of Micro-LED arrays
 
-大二学年：
+Courses: Machine Learning, Microdisplay technology and AR/VR, Power devices.
 
-2016年第十三届五一数学建模联赛三等奖
+#### 2014 / 09  - 2018 / 07
+**China University of Mining and Technology, School of Physics, Xuzhou Jiangsu- *Undergraduate***
 
-### 其他
-语言：英语(6级)，英语口语(流畅)
+Courses: Laser principle, Optical design, Solid state physics, Analog circuits, Digital circuits.
 
-技能：Java(入门)，Matab(熟练)，C++(阅读C++ Primer)
 
-兴趣爱好：跑步(高校半马赛一次)
+### Other skills
+Skills: C++ (Getting Started), Java (Getting Started), HTML (Getting Started), Matab (Medium)
