@@ -38,4 +38,4 @@ Courses: Laser principle, Optical design, Solid state physics, Analog circuits, 
 
 
 ### Other skills
-Skills: C++ (Getting Started), Java (Getting Started), HTML (Getting Started), Matab (Medium)
+Skills: C++ (Getting Started), Matab (Medium)
