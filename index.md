@@ -1,6 +1,6 @@
 # **Bo Lu**
 
-Wuhan, China   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11849159@mail.sustech.edu.cn
+Wuhan, China   &nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
 
 # **Education**
 
