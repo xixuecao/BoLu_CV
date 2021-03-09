@@ -29,6 +29,9 @@ Wuhan, China   &nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp; <11849159@mail.sustech
 
 
 # **Projects (2014-2020)**
+###	**Machine Learning Corese Design**
+* To recognize the traffic sign on the road, SVM and CNN were used to perform classification separately. With the drop-out method, CNN got a better accuracy of 98% than SVM.
+
 ### **Design of 32 × 32 GaN Mini-LED Display System**
 * The driving circuit (PCB) and display circuit (FPC) designed by Altium Designer were combined with custom made FPGA to demonstrate a Blue Mini-LED display system. Flip-chip technology was used to fabricate 1024 LED chips by transfer bonding each pixel on solder paste precisely.
 
