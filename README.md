@@ -1,2 +1,2 @@
-# xixuecao.github.io
+# lubo.github.io
 ## Personal website
