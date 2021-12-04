@@ -1,8 +1,8 @@
 ## **Bo Lu**
 
-Data and place of birth: 04.02.1998, Hubei Province of China.
-<br>Address: Xianning City, Hubei Province, China
-<br>Contact: +8615602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
+Data and place of birth: **04.02.1998, Hubei Province of China**
+<br>Address: **Xianning City, Hubei Province, China**
+<br>Contact: **+8615602454711 / <11849159@mail.sustech.edu.cn>**
 
 ## **Education & Experience**
 
@@ -18,11 +18,10 @@ Data and place of birth: 04.02.1998, Hubei Province of China.
 
 ### 2018/09  - 2020/04
 **HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
-
 ## **Publications**
 ### **Journal Paper**
 * **Color Difference and Thermal Stability of Flexible Transparent InGaN/GaN Multiple Quantum Wells Mini-LED Arrays**
-B. Lu, Y. Wang, B. Hyun, H. Kuo and Z. Liu
+<br>B. Lu, Y. Wang, B. Hyun, H. Kuo and Z. Liu
 <br>*IEEE Electron Device Letters*, 41(7), 1040-1043, 2020. [10.1109/LED.2020.2994143](https://ieeexplore.ieee.org/document/9091823)
 
 ### **Conference Proceedings**
@@ -59,4 +58,3 @@ in full process.
 
 ## **Other skills**
 * Basic programming skills for analysis in Python, Matlab
-
