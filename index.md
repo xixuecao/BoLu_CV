@@ -1,14 +1,23 @@
 # **Bo Lu**
 
-Xianning, China   &nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
+Data and place of birth: 04.02.1998, Hubei Province of China.
+Address: Xianning City, Hubei Province, China
+Contact: +8615602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
 
-# **Education**
+# **Education & Experience**
 
 ### 2018/09  - 2020/07
 **Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate  (GPA: 3.81/4)***
+*Major: Optical Engineering*
+*Thesis: FABRICATION AND THERMAL STABILITY OF GAN-BASED MICRO-LED DISPLAY ARRAY*
 
 ### 2014/09  - 2018/07
 **China University of Mining and Technology, School of Physics, Xuzhou China - *Undergraduate (GPA: 3.76/4)***
+*Major: Opto-Electronics Information Science and Engineering*
+*Thesis: Design of GaN-Based Micro-LED Display System*
+
+### 2018/09  - 2020/04
+**HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
 
 # **Publications**
 ## **Journal Paper**
@@ -28,7 +37,11 @@ Xianning, China   &nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp; <11849159@mail.sust
 <br>*Proceedings of the International Display Workshops*. 1473, 2019. [10.36463/idw.2019.1473](https://confit.atlas.jp/guide/organizer/idw/idw2019/subject/MEET5-3/detail)
 
 
-# **Projects (2014-2020)**
+# **Projects (2014-2021)**
+
+### **Process Integration**
+* Design and check the inline and end of line monitor structures of silicon photonics devices
+in full process.
 
 ### **Design of 32 × 32 GaN Mini-LED Display System**
 * The driving circuit (PCB) and display circuit (FPC) designed by Altium Designer were combined with custom made FPGA to demonstrate a Blue Mini-LED display system. Flip-chip technology was used to fabricate 1024 LED chips by transfer bonding each pixel on solder paste precisely.
@@ -39,10 +52,6 @@ Xianning, China   &nbsp;&nbsp;  +86 15602454711 &nbsp;&nbsp; <11849159@mail.sust
 ### **Fabrication of GaN/InGaN Micro-LED**
 * The InGaN/GaN epitaxy wafer was covered by photoresist and SiO2 partially, and ICP system was used to etch mesa for n-contact. After removing the SiO2, the Ni/Au was used to spread the current. After the current spread layer, electrodes were made for current injection.
 
-### **Undergraduate (2014 / 09  - 2018 / 07)**
-* Participating in the 13th May Day Mathematical Modeling League in 2017. Mainly responsible for 
-  * Analyzing the problem and establishing the model; 
-  * Building the model with Matlab, analyzing and processing the data.
 
 # **Patents**
 * Lu Bo, Micro light-emitting diode chip and display panel, China Patent, CN:201921765435: U, 20200505
