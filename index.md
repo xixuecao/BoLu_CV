@@ -6,18 +6,18 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 
 ## **Education & Experience**
 
-### 2018/09  - 2020/07
-**Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate***
+***2018/09  - 2020/07***
+<br>**Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate***
 <br>*Major: Optical Engineering*
 <br>*Thesis: FABRICATION AND THERMAL STABILITY OF GAN-BASED MICRO-LED DISPLAY ARRAY*
 
-### 2014/09  - 2018/07
-**China University of Mining and Technology, School of Physics, Xuzhou China - *Undergraduate***
+***2014/09  - 2018/07***
+<br>**China University of Mining and Technology, School of Physics, Xuzhou China - *Undergraduate***
 <br>*Major: Opto-Electronics Information Science and Engineering*
 <br>*Thesis: Design of GaN-Based Micro-LED Display System*
 
-### 2018/09  - 2020/04
-**HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
+***2018/09  - 2020/04***
+<br>**HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
 ## **Publications**
 ### **Journal Paper**
 * **Color Difference and Thermal Stability of Flexible Transparent InGaN/GaN Multiple Quantum Wells Mini-LED Arrays**
