@@ -18,7 +18,7 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 
 ### 2018/09  - 2020/04
 **HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
-## ***Publications**
+## **Publications**
 ### **Journal Paper**
 * **Color Difference and Thermal Stability of Flexible Transparent InGaN/GaN Multiple Quantum Wells Mini-LED Arrays**
 <br>B. Lu, Y. Wang, B. Hyun, H. Kuo and Z. Liu
@@ -28,11 +28,9 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 * **Temperature‐dependent Forward Voltage of AlGaInP‐based Red Micro‐LEDs**
 <br>Wang, Y., Lu, B., Liu, C., Kuo, H., Hyun, B. and Liu, Z
 <br>*SID Symposium Digest of Technical Papers*, 51,129-131, 2020. [10.1002/sdtp.13770](https://onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.13770)
-
 * **P‐7.4: Thermal Stability Analysis of Micro‐LED arrays**
 <br>Lu, B., Jiang, F., Xiong, Z., Wang, Y., Wei, F. and Liu, Z
 <br>*SID Symposium Digest of Technical Papers*, 50, 807-809, 2019.[10.1002/sdtp.13655](https://onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.13655)
-
 * **Investigation of Tempreture-denpendent Behaviors of Micro-LED Displays**
 <br>Liu, Zhaojun, Lu, Bo, Liu, Minggang et al.
 <br>*Proceedings of the International Display Workshops*. 1473, 2019. [10.36463/idw.2019.1473](https://confit.atlas.jp/guide/organizer/idw/idw2019/subject/MEET5-3/detail)
@@ -43,13 +41,10 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 * **Process Integration**
 <br>Design and check the inline and end of line monitor structures of silicon photonics devices
 in full process.
-
 * **Design of 32 × 32 GaN Mini-LED Display System**
 <br>The driving circuit (PCB) and display circuit (FPC) designed by Altium Designer were combined with custom made FPGA to demonstrate a Blue Mini-LED display system. Flip-chip technology was used to fabricate 1024 LED chips by transfer bonding each pixel on solder paste precisely.
-
 * **Studies of Thermal Stability of Flexible Transparent Mini-LED Array**
 <br>The studies of the color change and thermal distribution of a flexible and transparent 32×32 mini-LED array on PET substrate up to a brightness rating of 5000 nits at room temperature was presented. The calculated color differences from the EL spectra at three different brightness are far less than the color discrimination threshold of the human eye corresponding to 0.005 at all testing brightness and meet the display industry requirement for color difference.
-
 * **Fabrication of GaN/InGaN Micro-LED**
 <br>The InGaN/GaN epitaxy wafer was covered by photoresist and SiO2 partially, and ICP system was used to etch mesa for n-contact. After removing the SiO2, the Ni/Au was used to spread the current. After the current spread layer, electrodes were made for current injection.
 
