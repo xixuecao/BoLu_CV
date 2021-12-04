@@ -38,11 +38,14 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 <br>*Proceedings of the International Display Workshops*. 1473, 2019. [10.36463/idw.2019.1473](https://confit.atlas.jp/guide/organizer/idw/idw2019/subject/MEET5-3/detail)
 
 
-## **Projects (2014-2021)**
+## **Projects (2018-2021)**
 
 * **Process Integration**
-<br>Design and check the inline and end of line monitor structures of silicon photonics devices
-in full process.
+<br>1. Develop, design and check the inline (Fabcell) and end of line (ePCM/oPCM) monitor structures of silicon photonics devices by python script.
+in full process. 
+<br>2. Run lots of products at the back end of line (BEOL).
+<br>3. Transfer mask design of full device from manual to script.
+<br>4. Automatically capture Mask data to standardize it, then build a standard format library with FAB.
 * **Design of 32 × 32 GaN Mini-LED Display System**
 <br>The driving circuit (PCB) and display circuit (FPC) designed by Altium Designer were combined with custom made FPGA to demonstrate a Blue Mini-LED display system. Flip-chip technology was used to fabricate 1024 LED chips by transfer bonding each pixel on solder paste precisely.
 * **Studies of Thermal Stability of Flexible Transparent Mini-LED Array**
