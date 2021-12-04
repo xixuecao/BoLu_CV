@@ -1,4 +1,4 @@
-## **Bo Lu**
+## **卢博/Bo Lu**
 
 Data and place of birth: **04.02.1998, Hubei Province of China**
 <br>Address: **Xianning City, Hubei Province, China**
