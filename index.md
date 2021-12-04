@@ -7,7 +7,7 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 ## **Education & Experience**
 
 ***2020/08  - 2021/04***
-<br>**HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
+<br>**HUAWEI TECHNOLOGIES CO., LTD, Wuhan China - *Process Integration Engineer***
 
 ***2018/09  - 2020/07***
 <br>**Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate***
