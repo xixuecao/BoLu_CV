@@ -4,7 +4,7 @@ Data and place of birth: 04.02.1998, Hubei Province of China.
 Address: Xianning City, Hubei Province, China
 Contact: +8615602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
 
-# **Education & Experience**
+## **Education & Experience**
 
 ### 2018/09  - 2020/07
 **Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate  (GPA: 3.81/4)***
@@ -19,7 +19,7 @@ Contact: +8615602454711 &nbsp;&nbsp; <11849159@mail.sustech.edu.cn>
 ### 2018/09  - 2020/04
 **HUAWEI TECHNOLOGIES CO., LTD. - *Process Integration Engineer***
 
-# **Publications**
+## **Publications**
 ## **Journal Paper**
 * **Color Difference and Thermal Stability of Flexible Transparent InGaN/GaN Multiple Quantum Wells Mini-LED Arrays**
 <br>B. Lu, Y. Wang, B. Hyun, H. Kuo and Z. Liu
