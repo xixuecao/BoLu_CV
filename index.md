@@ -53,10 +53,10 @@ in full process.
 * The InGaN/GaN epitaxy wafer was covered by photoresist and SiO2 partially, and ICP system was used to etch mesa for n-contact. After removing the SiO2, the Ni/Au was used to spread the current. After the current spread layer, electrodes were made for current injection.
 
 
-# **Patents**
+## **Patents**
 * Lu Bo, Micro light-emitting diode chip and display panel, China Patent, CN:201921765435: U, 20200505
 * Lu Bo, Transfer substrate and system of LED Chips, China Patent, CN201921773581.7, 20200724
 
-# **Other skills**
+## **Other skills**
 * Basic programming skills for analysis in Python, Matlab
 
