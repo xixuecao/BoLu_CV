@@ -7,12 +7,12 @@ Data and place of birth: 04.02.1998, Hubei Province of China.
 ## **Education & Experience**
 
 ### 2018/09  - 2020/07
-**Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate  (GPA: 3.81/4)***
+**Harbin Institute of Technology - Southern University of Science and Technology (joint program), Department of Electrical and Electronic Engineering, Shenzhen China - *Postgraduate***
 <br>*Major: Optical Engineering*
 <br>*Thesis: FABRICATION AND THERMAL STABILITY OF GAN-BASED MICRO-LED DISPLAY ARRAY*
 
 ### 2014/09  - 2018/07
-**China University of Mining and Technology, School of Physics, Xuzhou China - *Undergraduate (GPA: 3.76/4)***
+**China University of Mining and Technology, School of Physics, Xuzhou China - *Undergraduate***
 <br>*Major: Opto-Electronics Information Science and Engineering*
 <br>*Thesis: Design of GaN-Based Micro-LED Display System*
 
