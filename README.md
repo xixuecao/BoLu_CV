@@ -1,2 +1,1 @@
-# lubo.github.io
-## Personal website
+# Personal website
