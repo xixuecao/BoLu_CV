@@ -43,9 +43,10 @@ Data and place of birth: **04.02.1998, Hubei Province of China**
 * **Process Integration**
 <br>1. Develop, design and check the inline (Fabcell) and end of line (ePCM/oPCM) monitor structures of silicon photonics devices by python script.
 in full process. 
-<br>2. Run lots of products at the back end of line (BEOL).
-<br>3. Transfer mask design of full device from manual to script.
-<br>4. Automatically capture Mask data to standardize it, then build a standard format library with FAB.
+<br>2. Maintain and update design pdk and rules as COT member, help product tape out.
+<br>3. Run lots of products at the back end of line (BEOL).
+<br>4. Transfer mask design of full device from manual to script.
+<br>5. Automatically capture Mask data to standardize it, then build a standard format library with FAB.
 * **Design of 32 × 32 GaN Mini-LED Display System**
 <br>The driving circuit (PCB) and display circuit (FPC) designed by Altium Designer were combined with custom made FPGA to demonstrate a Blue Mini-LED display system. Flip-chip technology was used to fabricate 1024 LED chips by transfer bonding each pixel on solder paste precisely.
 * **Studies of Thermal Stability of Flexible Transparent Mini-LED Array**
